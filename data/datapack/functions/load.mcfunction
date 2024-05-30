@@ -1,2 +1,1 @@
-scoreboard objectives add timer dummy
-say хз типа LUL
+say Конец 2 сезона! Всем удачи и встретимся на 3 сезоне!
